@@ -13,3 +13,5 @@ Na ViewController adicione 1 Label com o text “0”(ele será um contador) e 3
  
  <h3>Preview desse app</h3>
  
+ <img src="https://github.com/bertiGrazi/UIGesture/blob/main/Preview/Grava%C3%A7%C3%A3o%20de%20Tela%202020-10-17%20%C3%A0s%2014.21.46.gif" width="290" height="530">
+ 
